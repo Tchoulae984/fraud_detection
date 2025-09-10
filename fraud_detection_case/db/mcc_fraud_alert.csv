@@ -1,0 +1,6 @@
+company_id,mcc_code,month_window,window_type,suspicious_tx_count,total_suspicious_amount,match_reason
+COMP001,7995,2025-09,1_month,6,28500.0,Multiple high-value gambling transactions in 1 month
+COMP002,7995,2025-09,1_month,3,12600.0,Multiple high-value gambling transactions in 1 month
+COMP003,7995,2025-09,1_month,6,28500.0,Multiple high-value gambling transactions in 1 month
+COMP004,7995,2025-09,1_month,3,21000.0,Multiple high-value gambling transactions in 1 month
+COMP005,7995,2025-09,1_month,6,21000.0,Multiple high-value gambling transactions in 1 month

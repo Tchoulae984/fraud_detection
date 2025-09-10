@@ -1,0 +1,32 @@
+[
+  {
+    "company_id": "COMP001",
+    "update_type": "address_change",
+    "new_value": "12 Rue Lafayette, Paris",
+    "updated_at": "2025-09-01T07:45:00Z"
+  },
+  {
+    "company_id": "COMP002",
+    "update_type": "risk_score_update",
+    "new_value": "High",
+    "updated_at": "2025-09-03T09:30:00Z"
+  },
+  {
+    "company_id": "COMP003",
+    "update_type": "category_change",
+    "new_value": "Financial Services",
+    "updated_at": "2025-09-05T10:15:00Z"
+  },
+  {
+    "company_id": "COMP004",
+    "update_type": "address_change",
+    "new_value": "88 Avenue Victor Hugo, Lyon",
+    "updated_at": "2025-09-07T11:20:00Z"
+  },
+  {
+    "company_id": "COMP005",
+    "update_type": "risk_score_update",
+    "new_value": "Medium",
+    "updated_at": "2025-09-09T12:00:00Z"
+  }
+]

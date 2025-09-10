@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "USER001",
+    "company_id": "COMP001",
+    "update_type": "password_reset",
+    "updated_at": "2025-09-02T08:10:00Z"
+  },
+  {
+    "user_id": "USER002",
+    "company_id": "COMP002",
+    "update_type": "phone_change",
+    "updated_at": "2025-09-04T09:40:00Z"
+  },
+  {
+    "user_id": "USER003",
+    "company_id": "COMP003",
+    "update_type": "email_change",
+    "updated_at": "2025-09-06T10:50:00Z"
+  },
+  {
+    "user_id": "USER004",
+    "company_id": "COMP004",
+    "update_type": "device_change",
+    "updated_at": "2025-09-08T11:25:00Z"
+  },
+  {
+    "user_id": "USER005",
+    "company_id": "COMP005",
+    "update_type": "password_reset",
+    "updated_at": "2025-09-10T12:05:00Z"
+  }
+]
